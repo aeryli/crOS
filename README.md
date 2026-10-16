@@ -3,4 +3,4 @@
 
 > [!NOTE]
 > disable footers for a better experience.
-> ![footer](./images/footer.png)
+> ![footer](./images/footer_S.png)
